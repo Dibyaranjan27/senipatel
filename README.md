@@ -1,12 +1,12 @@
 <!-- MasterHead -->
 <div align="center">
 <a href="https://github.com/Dibyaranjan27/Dibyaranjan27/blob/main/Github-profile-banner2.gif">
-  <img src="Github-profile-banner2.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+  <img src="https://www.canva.com/design/DAGlj4t0NEc/FSjGGV0eu4wy1nWhFSYojw/watch?utm_content=DAGlj4t0NEc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h51265f0ec8" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
  </div>
 
 <!-- Greeting -->
-<h1 align="center">Hey there👋, I'm Dibyaranjan Maharana</h1>
+<h1 align="center">Hey there👋,</h1><img src="https://www.canva.com/design/DAGlj4t0NEc/FSjGGV0eu4wy1nWhFSYojw/watch?utm_content=DAGlj4t0NEc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h51265f0ec8" alt="Name picture" style="width:auto; height:auto"/>
 
 <h4 align="left">🌟 I craft web magic and Flutter apps in my downtime, while diving deep into Cloud Computing and AI/ML. A 3rd-year B.Tech Computer Science student, I’m sharpening my skills and exploring IT to unlock new horizons!</h4>
 
