@@ -28,10 +28,9 @@
 </div>
 
 <img align="right" alt="coding-gif" width="300" src="https://github.com/Dibyaranjan27/senipatel/blob/main/helloworld.gif">
-<img align="right" alt="coding-gif" width="300" src="In The Zone.gif">
 
 <!-- about me -->
-<h3 align="center">💫 About Me</h3>
+<h3 align="left">💫 About Me</h3>
 
 <h4 align="left">
 🌟 Third-year B.Tech student specializing in Information Technology.<br>
@@ -40,7 +39,6 @@
 💬 Ask me about web development, IT innovations, or my latest projects!<br>
 ⚡ Driven to create impactful tech with a touch of creativity.<br>
 </h4>
-
 <div align="left">
 
 
@@ -59,6 +57,7 @@
 
 </div>
 <br/>
+<img align="left" alt="coding-gif" width="600" src="https://github.com/Dibyaranjan27/senipatel/blob/main/In%20The%20Zone.gif">
 
 <!--Experence and experencing-->
 <!-- <h3 align="center">🔆 Work'ed and Wor'king</h3>
@@ -68,10 +67,10 @@
 </div> -->
 
 <!-- git stat-->
-<h3 align="center">⚡ My GitHub at a Glance</h3>
+<h3 align="center">⚡My GitHub Stats</h3>
 <br>
 <div align="center">
-<img width="380" src="https://github-readme-stats.vercel.app/api?username=Dibyaranjan27&count_private=true&show_icons=true&theme=holi&rank_icon=github&border_radius=10"/>
+<img width="340" src="https://github-readme-stats.vercel.app/api?username=Dibyaranjan27&count_private=true&show_icons=true&theme=holi&rank_icon=github&border_radius=10"/>
 
   <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibyaranjan27&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
