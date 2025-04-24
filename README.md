@@ -28,6 +28,7 @@
 </div>
 
 <img align="right" alt="coding-gif" width="300" src="https://github.com/Dibyaranjan27/senipatel/blob/main/helloworld.gif">
+<img align="right" alt="coding-gif" width="300" src="In The Zone.gif">
 
 <!-- about me -->
 <h3 align="center">💫 About Me</h3>
