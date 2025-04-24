@@ -27,8 +27,7 @@
          src="https://custom-icon-badges.herokuapp.com/github/followers/Dibyaranjan27?color=5FABEE&labelColor=030314&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
 </div>
 
-<img align="right" alt="coding-gif" width="400" src="coding-vibe.gif">
-
+<img align="right" alt="coding-gif" width="300" src="https://github.com/Dibyaranjan27/senipatel/blob/main/helloworld.gif">
 
 <!-- about me -->
 <h3 align="center">💫 About Me</h3>
@@ -40,6 +39,7 @@
 💬 Ask me about web development, IT innovations, or my latest projects!<br>
 ⚡ Driven to create impactful tech with a touch of creativity.<br>
 </h4>
+
 <div align="left">
 
 
