@@ -8,13 +8,13 @@
 <!-- Greeting -->
 <h1 align="center">Hey there👋,<img src="https://github.com/Dibyaranjan27/senipatel/blob/main/image.png" alt="Name picture" style="width:300; height:80px"/></h1>
 
-<h4 align="left">🌟 I craft web magic and Flutter apps in my downtime, while diving deep into Cloud Computing and AI/ML. A 3rd-year B.Tech Computer Science student, I’m sharpening my skills and exploring IT to unlock new horizons!</h4>
+<h4 align="left">🎓 B.Tech CSE Student | 💻 Developer | 🚀 Always Learning </h4>
 
- <div align="center">
+ <div align="right">
   <a href="https://github.com/Dibyaranjan27">
     <img width="162px" 
-         src="https://komarev.com/ghpvc/?username=Dibyaranjan27&label=Profile%20views&color=5FABEE&style=for-the-badge&abbreviated=true" 
-         alt="Profile views" /></a>
+         src="https://visitor-badge.laobi.icu/badge?page_id=Rutwik2003.Rutwik2003" 
+         alt="Visitors" /></a>
   <a href="https://api.github-star-counter.workers.dev/user/Dibyaranjan27">
     <img width="115px" 
          alt="Total stars" 
@@ -31,26 +31,28 @@
 
 
 <!-- about me -->
- <h3 align="left">💫 About Me</h3>
+<h3 align="center">💫 About Me</h3>
 
- <h4> 
-        🌱 I’m currently honing my programming skills and exploring tech depths.<br>
-        🔭 I’ve worked with Flutter and gained experience in full-stack web development.<br>
-        💬 Ask me about Cloud Computing, Flutter, React, or my AI/ML journey.<br>
-        ⚡ Passionate about Cloud Computing, AI/ML, Data Science, and infusing anime flair into tech.<br>
-        ✨ I aim for excellence in every code I craft! </h4>  <div align="left"> 
+<h4 align="left">
+🌟 Third-year B.Tech student specializing in Information Technology.<br>
+🌱 Passionate about building innovative solutions through coding and exploring new technologies.<br>
+🔭 Currently working on web development projects using React and TypeScript.<br>
+💬 Ask me about web development, IT innovations, or my latest projects!<br>
+⚡ Driven to create impactful tech with a touch of creativity.<br>
+</h4>
+<div align="left">
 
 
 
- <div align="left"> 
+ <div align="center"> 
         <a href="mailto:dibyam2701@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
         <a href="https://www.linkedin.com/in/dibyaranjan-maharana-1228012b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
         <a href="https://open.spotify.com/playlist/your-playlist-id" target="_blank">
-          <!-- <img src="https://img.shields.io/badge/Spotify-1CAC78?style=for-the-badge&logo=spotify&logoColor=ECEFF4" alt="Spotify Badge"></a>
+          <img src="https://img.shields.io/badge/Spotify-1CAC78?style=for-the-badge&logo=spotify&logoColor=ECEFF4" alt="Spotify Badge"></a>
         <a href="https://www.youtube.com/playlist?list=your-playlist-id" target="_blank">
           <img src="https://img.shields.io/badge/YouTube-BF616A?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube Badge"></a>
         <a href="https://your-portfolio-url" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-505050?style=for-the-badge&logo=web&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a> -->
+          <img src="https://img.shields.io/badge/Portfolio-505050?style=for-the-badge&logo=web&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a>
       </div>
 </div></h4>
 
