@@ -1,7 +1,7 @@
 <!-- MasterHead -->
 <div align="center">
-<a href="https://github.com/Dibyaranjan27/Dibyaranjan27/blob/main/Github-profile-banner2.gif">
-  <img src="https://drive.google.com/file/d/1d1i1FPdamY_y3Qtwe62uLmt2M4BF1Y8_/preview" alt="Fallout GIF" style="width:auto; height:auto"/>
+<a href="https://imgur.com/a/0ur6GQp">
+  <img src="https://imgur.com/VVPno72" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
  </div>
 
