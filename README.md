@@ -1,7 +1,7 @@
 <!-- MasterHead -->
 <div align="center">
 <a href="https://imgur.com/a/0ur6GQp">
-  <img src="https://imgur.com/VVPno72" alt="Fallout GIF" style="width:auto; height:auto"/>
+ <video src="https://imgur.com/XyK6KoF" autoplay loop muted playsinline></video>
 </a>
  </div>
 
