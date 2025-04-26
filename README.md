@@ -37,7 +37,7 @@
           <img src="https://img.shields.io/badge/Spotify-1CAC78?style=for-the-badge&logo=spotify&logoColor=ECEFF4" alt="Spotify Badge"></a>
         <a href="https://www.youtube.com/playlist?list=your-playlist-id" target="_blank">
           <img src="https://img.shields.io/badge/YouTube-BF616A?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube Badge"></a>
-        <a href="https://your-portfolio-url" target="_blank">
+        <a href="https://senipatel.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-505050?style=for-the-badge&logo=web&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a>
       </div>
 </div></h4>
