@@ -1,9 +1,3 @@
-<!-- MasterHead -->
-<div align="center">
-<a href="https://imgur.com/a/0ur6GQp">
- <video src="https://imgur.com/XyK6KoF" autoplay loop muted playsinline></video>
-</a>
- </div>
 
 <!-- Greeting -->
 <h1 align="center">Hey there👋,<img src="https://github.com/Dibyaranjan27/senipatel/blob/main/image.png" alt="Name picture" style="width:300; height:80px"/></h1>
