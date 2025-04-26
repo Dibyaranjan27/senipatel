@@ -20,9 +20,15 @@
 
 <img align="right" alt="coding-gif" width="350" src="https://github.com/Dibyaranjan27/senipatel/blob/main/helloworld.gif">
 
-<!-- about me --> 
-<div align="left"> <h3>💫 About Me</h3> 
-  <table style="border: none;"> <tr> <td align="center" width="30">🌟</td> <td width="430">Third-year B.Tech student specializing in Information Technology.</td> </tr> <tr> <td align="center" width="30">🌱</td> <td>Passionate about building innovative solutions through coding and exploring new technologies.</td> </tr> <tr> <td align="center" width="30">🔭</td> <td>Currently working on web development projects using React and TypeScript.</td> </tr> <tr> <td align="center" width="30">💬</td> <td>Ask me about web development, IT innovations, or my latest projects!</td> </tr> <tr> <td align="center" width="30">⚡</td> <td>Driven to create impactful tech with a touch of creativity.</td> </tr> </table> </div>
+<!-- about me -->
+<div align="left">
+<h3>💫 About Me</h3>
+<h4>🌟 Third-year B.Tech student specializing in Information Technology.<br>
+🌱 Passionate about building innovative solutions through coding and exploring new technologies.<br>
+🔭 Currently working on web development projects using React and TypeScript.<br>
+💬 Ask me about web development, IT innovations, or my latest projects!<br>
+⚡ Driven to create impactful tech with a touch of creativity.</h4>
+</div>
 
 
 
