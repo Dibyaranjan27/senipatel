@@ -23,14 +23,12 @@
 <!-- about me -->
 <div align="left">
 <h3>💫 About Me</h3>
-<h4>🌟 Third-year B.Tech student specializing in Information Technology.<br>
-🌱 Passionate about building innovative solutions through coding and exploring new technologies.<br>
-🔭 Currently working on web development projects using React and TypeScript.<br>
-💬 Ask me about web development, IT innovations, or my latest projects!<br>
-⚡ Driven to create impactful tech with a touch of creativity.</h4>
+<p style="margin: 5px 0;">🌟 Third-year B.Tech student specializing in Information Technology.</p>
+<p style="margin: 5px 0;">🌱 Passionate about building innovative solutions through coding and exploring new technologies.</p>
+<p style="margin: 5px 0;">🔭 Currently working on web development projects using React and TypeScript.</p>
+<p style="margin: 5px 0;">💬 Ask me about web development, IT innovations, or my latest projects!</p>
+<p style="margin: 5px 0;">⚡ Driven to create impactful tech with a touch of creativity.</p>
 </div>
-
-
 
  <div align="center"> 
         <a href="mailto:senipatel017@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
