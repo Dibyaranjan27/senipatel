@@ -5,7 +5,7 @@
 <h4 align="left">🎓 B.Tech CSE Student | 💻 Developer | 🚀 Always Learning </h4>
 
  <div align="right">
-  <a href="https://github.com/senipatel"> <img width="115px" alt="Profile visitors" title="GitHub profile visitors" src="https://api.visitorbadge.io/api/visitors?path=senipatel_profile&style=for-the-badge&color=5FABEE&label=Visitors&logo=eye"/> </a>
+  <a href="https://github.com/senipatel"> <img width="120px" alt="Profile visitors" title="GitHub profile visitors" src="https://api.visitorbadge.io/api/visitors?path=senipatel_profile&style=for-the-badge&color=5FABEE&label=Visitors&logo=eye"/> </a>
   <a href="https://api.github-star-counter.workers.dev/user/senipatel">
     <img width="115px" 
          alt="Total stars" 
